@@ -1,0 +1,8 @@
+16:36:28.283 [main] INFO  resources.Base - Driver is initialized
+16:36:39.287 [main] INFO  resources.Base - Navigated to Home Page
+16:36:50.001 [main] INFO  resources.Base - Navigated to Login Page
+16:36:50.528 [main] INFO  resources.Base - Non Restricted User
+16:36:53.446 [main] INFO  resources.Base - Login using email and password
+16:36:55.490 [main] INFO  resources.Base - Navigated to Home Page
+16:36:59.570 [main] INFO  resources.Base - Navigated to Login Page
+16:36:59.973 [main] INFO  resources.Base - Restricted User
